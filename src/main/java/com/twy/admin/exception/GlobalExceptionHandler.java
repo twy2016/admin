@@ -1,5 +1,6 @@
-package com.twy.admin.common;
+package com.twy.admin.exception;
 
+import com.twy.admin.common.Result;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.BindingResult;
